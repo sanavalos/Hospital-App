@@ -12,4 +12,7 @@ This app was coded with `JavaScript` and developed with:
 - [React JS](https://reactjs.org)
 - [Tailwind](https://tailwindcss.com)
 
+### Deploy
+Vercel: https://hospital-app-sanavalos.vercel.app
+
 _made by sanavalos_
